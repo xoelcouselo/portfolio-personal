@@ -1,7 +1,7 @@
 
 # Mi portfolio de Desarrollo Web Front End y Data Science
 
-https://img.shields.io/github/commits-since/{username}/{repo-name}/{version}.svg
+https://img.shields.io/github/commits-since/xoelcouselo/portfolio-personal/1.0.svg
 
 https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg
 
